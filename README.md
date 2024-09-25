@@ -1,0 +1,2 @@
+# DES-Encryption-Algorithm
+ I.	Create a computer program (Python preferably) that can encrypt and decrypt a plain text stored in a file, using the DES cryptosystem. The program will read crypto key and the name of the file where the plain text (plain.txt) or cipher text (cipher.text) is stored. You can assume that the size of these files is multiple of 64 bits. You can also use any external libraries. Add a screenshot for the final result to the main submission file, and attach your code in a separate file. 
